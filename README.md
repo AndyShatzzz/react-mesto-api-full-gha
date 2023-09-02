@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.115.31
 
-Frontend https://andy
+Frontend http://127.0.0.1:3001
 
-Backend https://...
+Backend http://127.0.0.1:3000
