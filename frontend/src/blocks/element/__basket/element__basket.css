@@ -1,0 +1,32 @@
+@keyframes move_bg {
+    from {
+        transform: rotate(20deg);
+    }
+    to {
+        transform: rotate(-20deg);
+    }
+  }
+
+.element__basket {
+    background-color: transparent;
+    background-image: url(../../../image/Group.svg);
+    width: 18px;
+    height: 19px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.element__basket:hover {
+    cursor: pointer;
+    opacity: 0.6;
+    animation: move_bg 0.3s ease-in-out;
+    transform: scale(1.2);
+    transition: .3s linear;
+}

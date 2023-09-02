@@ -1,0 +1,7 @@
+.login__set {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    margin: 0;
+    padding: 0;
+}

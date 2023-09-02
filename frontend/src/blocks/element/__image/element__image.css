@@ -1,0 +1,13 @@
+.element__image {
+    max-width: 282px;
+    min-height: 282px;
+    object-fit: cover;
+    object-position: center;
+    margin: 0;
+    aspect-ratio: 1/1;
+    display: block;
+}
+
+.element__image:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.profile__row-top {
+    display: flex;
+}
+
+@media screen and (max-width: 900px) {
+    .profile__row-top {
+        justify-content: center;
+        align-items: center;
+        margin-top: 22.25px;
+    }  
+}
+
+@media screen and (max-width: 320px) {
+    .profile__row-top {
+        margin-left: 65px;
+        margin-right: 38px;
+    }
+}

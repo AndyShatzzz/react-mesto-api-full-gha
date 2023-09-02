@@ -1,0 +1,6 @@
+.element__grid {
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    position: relative;
+}

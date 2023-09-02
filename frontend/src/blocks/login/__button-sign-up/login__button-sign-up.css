@@ -1,0 +1,13 @@
+.login__button-sign-up {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #fff;
+    text-align: center;
+    background: transparent;
+    margin-top: 15px;
+    border: none;
+    text-decoration: none;
+}

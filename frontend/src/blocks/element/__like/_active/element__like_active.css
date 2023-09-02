@@ -1,0 +1,6 @@
+.element__like_active {
+    background-image: url(../../../../image/Union.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
