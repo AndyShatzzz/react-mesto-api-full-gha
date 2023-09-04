@@ -5,12 +5,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: https://github.com/AndyShatzzz/react-mesto-api-full-gha.git
 
 ## Ссылки на проект
 
-IP-адрес 158.160.115.31
+IP-адрес: 158.160.115.31
 
-Frontend andyshatzzz.nomoredomainsicu.ru
+Frontend: http://andyshatzzz.nomoredomainsicu.ru
 
-Backend api.andyshatzzz.nomoredomainsicu.ru
+Backend: http://api.andyshatzzz.nomoredomainsicu.ru
