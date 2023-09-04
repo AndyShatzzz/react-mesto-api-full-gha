@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес: 158.160.115.31
+IP 158.160.115.31
 
-Frontend: https://andyshatzzz.nomoredomainsicu.ru
+Frontend https://andyshatzzz.nomoredomainsicu.ru
 
-Backend: https://api.andyshatzzz.nomoredomainsicu.ru
+Backend https://api.andyshatzzz.nomoredomainsicu.ru
