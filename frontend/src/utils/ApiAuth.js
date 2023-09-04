@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://api.andyshatzzz.nomoredomainsicu.ru';
+export const BASE_URL = 'https://api.andyshatzzz.nomoredomainsicu.ru';
 
 const checkResponse = (res) => {
   return res.ok ? res.json() : Promise.reject(`Ошибка ${res.status}`);

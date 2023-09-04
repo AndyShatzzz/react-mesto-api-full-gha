@@ -11,6 +11,6 @@
 
 IP-адрес: 158.160.115.31
 
-Frontend: http://andyshatzzz.nomoredomainsicu.ru
+Frontend: https://andyshatzzz.nomoredomainsicu.ru
 
-Backend: http://api.andyshatzzz.nomoredomainsicu.ru
+Backend: https://api.andyshatzzz.nomoredomainsicu.ru
